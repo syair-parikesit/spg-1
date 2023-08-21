@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://syair-parikesit.github.io/spg-1/sitemap.xml
